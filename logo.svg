@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="675"
+   width="225"
    height="225"
-   viewBox="0 0 178.59375 59.531252"
+   viewBox="0 0 59.53125 59.531251"
    version="1.1"
    id="svg8"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   inkscape:export-filename="logo-with-text.png"
-   inkscape:export-xdpi="256"
-   inkscape:export-ydpi="256"
-   sodipodi:docname="logo-with-text.svg"
+   inkscape:export-filename="logo-fairhub-blue.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5000001"
-     inkscape:cx="344.33331"
-     inkscape:cy="57.33333"
+     inkscape:cx="105.66666"
+     inkscape:cy="136.66666"
      inkscape:document-units="mm"
      inkscape:current-layer="g4785"
      showgrid="false"
@@ -65,7 +65,7 @@
        id="rect4603"
        width="67.73333"
        height="67.73333"
-       x="-1.0583316"
+       x="1.7801921e-06"
        y="229.26665"
        ry="8.5961847" />
     <g
@@ -76,47 +76,34 @@
          transform="translate(0,0.015433)">
         <path
            style="fill:#333333;stroke:#00819e;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 31.531281,235.50621 -26.61993,0.007"
+           d="m 36.822951,235.5062 -26.619933,0.007"
            id="path4524"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
         <path
            style="fill:#333333;stroke:#00819e;stroke-width:8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 26.953491,259.37702 -22.040116,-0.001"
+           d="m 32.245161,259.37701 -22.040119,-10e-4"
            id="path4524-1"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
         <path
            style="fill:none;stroke:#565656;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 43.610186,283.40958 0.0425,-46.76246"
+           d="m 48.901856,283.40957 0.0425,-46.76246"
            id="path4524-2-1"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
         <path
            style="fill:none;stroke:#565656;stroke-width:8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 43.203811,259.48124 -16.25032,-0.10422"
+           d="m 48.495481,259.48123 -16.25032,-0.10422"
            id="path4524-1-2"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
         <path
            style="fill:#333333;stroke:#00819e;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 4.878231,282.81587 0.03312,-46.77349"
+           d="m 10.169898,282.81586 0.03312,-46.77349"
            id="path4524-2"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cc" />
-        <text
-           xml:space="preserve"
-           style="font-size:35.2778px;fill:#00819e;fill-opacity:1;stroke:#00819e;stroke-width:0;stroke-dasharray:none"
-           x="53.183586"
-           y="271.133"
-           id="text173"><tspan
-             sodipodi:role="line"
-             id="tspan171"
-             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35.2778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#00819e;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
-             x="53.183586"
-             y="271.133">FAIR<tspan
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:35.2778px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';fill:#575757;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-   id="tspan1334">hub</tspan></tspan></text>
       </g>
     </g>
   </g>
